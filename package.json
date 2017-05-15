@@ -1,0 +1,38 @@
+{
+  "name": "excel4node",
+  "version": "1.2.4",
+  "description": "Library to create Formatted Excel Files.",
+  "private": true,
+  "main": "index.js",
+  "author": {
+    "name": "Nater",
+    "email": "nater@seas.harvard.edu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tourmalinelabs/excel4node.git"
+  },
+  "dependencies": {
+    "babel-register": "^6.9.0",
+    "colors": "^1.1.2",
+    "image-size": "0.5.0",
+    "jszip": "^3.0.0",
+    "lodash": "4.13.1",
+    "mime": "^1.3.4",
+    "sloth-logger": "^1.0.3",
+    "xmlbuilder": "8.2.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-es2015-node4": "^2.1.0",
+    "jsdoc-babel": "^0.2.1",
+    "source-map-support": "^0.4.1",
+    "tape": "^4.6.0",
+    "tape-promise": "^1.1.0",
+    "xmldom": "^0.1.22",
+    "xpath.js": "^1.0.6"
+  }
+}
+
